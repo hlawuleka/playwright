@@ -3,7 +3,7 @@
 ## Users
 
 * [VS Code](https://github.com/microsoft/vscode): Playwright is used to run cross-browser tests on their web builds
-* [TypeScript](https://github.com/microsoft/TypeScript): Playwright is used test typescript.js across browsers
+* [TypeScript](https://github.com/microsoft/TypeScript): Playwright is used to test typescript.js across browsers
 * [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js): Playwright is used to run benchmark tests across browsers
 * [Blockstack](https://github.com/blockstack/ux): Playwright is used to run cross-browser UI tests
 * [Codex](https://github.com/codex-src/codex-app): Playwright is used to run functional and performance tests
